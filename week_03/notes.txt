@@ -1,0 +1,9 @@
+What Git is in your own words.
+
+Git is a version control system that tracks changes in your files and code over time.
+
+Think of it like a save system for developers—it lets you save versions of your project, see what changed, and restore older versions if something breaks.
+
+The 5 commands you use most.
+
+cd, dir, git add. , git status, git commit 
